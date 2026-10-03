@@ -11,7 +11,7 @@ st.set_page_config(
     layout="centered"
 )
 
-st.title("💰 TÍNH LÃI GỬI TIẾT KIỆM")
+st.title("💰 TÍNH LÃI GỬI TIẾT KIỆM_Lê Đăng Thanh")
 st.caption("Công cụ tính lãi tiền gửi theo lãi đơn hoặc lãi kép")
 
 # =========================
