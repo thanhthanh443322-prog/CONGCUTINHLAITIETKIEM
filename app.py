@@ -1,5 +1,5 @@
 import streamlit as st
-st.image("")
+st.image("Screenshot 2026-02-10 214506.png")
 import pandas as pd
 
 # =========================
